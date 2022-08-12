@@ -71,5 +71,11 @@ function bagiin() {
         if(i == 0) {
             console.log('')
         }
+        else if(i%2 == 0) {
+            console.log(i, 'Bilangan Genap')
+        }
+        else {
+            console.log(i, 'Bilangan Ganjil')
+        }
     }
 }
