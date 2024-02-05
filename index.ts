@@ -1,5 +1,5 @@
-const nama = "Drian Patrzalek";
-let usia = 18;
+const nama = "Zefri Fahlevi";
+let usia = 19;
 
 function generateBiodata () {
     if (usia >= 1 && usia <= 5 ) {
