@@ -28,7 +28,7 @@ function generateBiodata () {
     }
 }
 
-console.log(nama);
-console.log(usia);
-
+console.log(`
+Atas Nama: ${nama}
+Usia Kamu: ${usia}`)
 generateBiodata();
